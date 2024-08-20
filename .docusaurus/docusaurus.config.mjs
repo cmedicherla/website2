@@ -8,7 +8,7 @@ export default {
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://cmedicherla.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/website2/build/",
   "organizationName": "cmedicherla",
   "projectName": "cmedicherla.github.io",
   "onBrokenLinks": "throw",

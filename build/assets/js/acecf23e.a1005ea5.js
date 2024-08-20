@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website_2=self.webpackChunkmy_website_2||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/website2/build/blog","blogTitle":"Blog","authorsListPath":"/website2/build/blog/authors"}')}}]);
